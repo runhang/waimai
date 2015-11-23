@@ -7,7 +7,6 @@
 
 > 数据库各表说明
 
-- change 机会表
 - t_account 用户表
 - t_account_role 用户权限与用户表中间表
 - t_role 用户权限
